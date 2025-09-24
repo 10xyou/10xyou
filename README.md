@@ -36,8 +36,8 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## ⚡ Fun Fact
-I enjoy working on side projects like **That provide a service and have an impact on peoples day to day life. ** 🛠️.  
-Outside coding, I’m into **LEGO Speed Champions** 🏎️ and creative design projects.
+I enjoy working on side projects like **That provide a service and have an impact on peoples day to day life.** 🛠️.  
+Outside coding, I’m into **LEGO Speed Champions** 🏎️, **Harry Potter** and creative design projects.
 
 ---
 
