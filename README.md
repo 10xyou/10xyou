@@ -30,7 +30,7 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/romeo-bartha-015255366/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/romeo-bartha-015255366/)  
 - 📧 *romeobartha@gmail.com*  
 
 ---
