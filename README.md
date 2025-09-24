@@ -14,7 +14,7 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## 🌱 What I’m Learning
-- ⚡ Object-Oriented Programming (Java, Python)
+- ⚡ Object-Oriented Programming (Java, Python, C++)
 - 📂 Database Design & SQL optimization
 - 🎨 Frontend with HTML, CSS, JavaScript
 - 🤖 Bots & Automation (Discord.py)
@@ -30,7 +30,7 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/romeo-bartha-015255366/)) *(Add your link here)*  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/romeo-bartha-015255366/))  
 - 📧 *romeobartha@gmail.com*  
 
 ---
