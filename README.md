@@ -6,8 +6,9 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## 🔭 What I’m Working On
-- 🖥️ Dynamic Web & Database projects (PHP, MySQL, XAMPP)
-- 🎲 A Mystery Adventure Game in Python/Java
+- 🖥️ Dynamic Web Aopplication for Time and Motion Study
+- 
+- 🎲 Discord Raffle Bot for Irelands largest pokemon discord EmeraldTCG (1,000+ Members)
 - 📊 Machine Learning with Java (Naïve Bayes Classifier + GUI)
 - 🎨 UI/UX improvements & high-fidelity prototypes
 
@@ -22,8 +23,8 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, SQL, PHP, JavaScript  
-- **Tools:** Git, Eclipse, PyCharm, XAMPP, DBeaver  
+- **Languages:** Python, Java, SQL, PHP, JavaScript , C, Kotlin
+- **Tools:** Git, Eclipse, PyCharm, XAMPP, DBeaver, Android Studio, Thonny, Putty
 - **Databases:** MySQL, SQLite  
 - **Other:** Discord.py, HTML/CSS, JSON  
 
@@ -36,7 +37,7 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## ⚡ Fun Fact
-I enjoy working on side projects like **raffle Discord bots, web dashboards, and even SketchUp models** 🛠️.  
+I enjoy working on side projects like **That provide a service and have an impact on peoples day to day life. ** 🛠️.  
 Outside coding, I’m into **LEGO Speed Champions** 🏎️ and creative design projects.
 
 ---
