@@ -6,8 +6,7 @@ I'm a student passionate about **software development, databases, and web techno
 ---
 
 ## 🔭 What I’m Working On
-- 🖥️ Dynamic Web Aopplication for Time and Motion Study
-- 
+- 🖥️ Dynamic Web Application for Time and Motion Study
 - 🎲 Discord Raffle Bot for Irelands largest pokemon discord EmeraldTCG (1,000+ Members)
 - 📊 Machine Learning with Java (Naïve Bayes Classifier + GUI)
 - 🎨 UI/UX improvements & high-fidelity prototypes
